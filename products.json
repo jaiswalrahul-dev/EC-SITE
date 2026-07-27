@@ -1,0 +1,46 @@
+[
+    {
+        "id":1,
+        "name":"Apple",
+        "price" :150,
+        "image" :"images/IMG_6888.PNG",
+        "description":"fresh apple"
+        
+    },
+    {
+        "id":2,
+        "name":"Oranges",
+        "price" : 120,
+        "image" :"images/IMG_6889.PNG",
+        "description":"fresh oranges"
+    },
+    {
+        "id":3,
+        "name":"Banana",
+        "price" : 140,
+        "image" :"images/IMG_6888.PNG",
+        "description":"fresh banan"
+    },
+    {
+        "id":4,
+        "name":"Banana",
+        "price" : 140,
+        "image" :"images/IMG_6888.PNG",
+        "description":"fresh banan"
+    },
+
+{
+    "id":5,
+    "name":"Banana",
+    "price" : 140,
+    "image" :"images/IMG_6889.PNG",
+    "description":"fresh banan"
+},
+{
+    "id":3,
+    "name":"Banana",
+    "price" : 140,
+    "image" :"images/IMG_6888.PNG",
+    "description":"fresh banan"
+}
+]
